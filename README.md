@@ -16,7 +16,8 @@ Analyze gender inequality and examine data on economic, legal and social perspec
 * Mandatory retirement ages
 * The impact of periods of leave from work due to child care on retirement rights
 
-# Team Members (Kodluyoruz Hi-Kod Data Science 8th Workshop)
+# Team Members 
+*Kodluyoruz Hi-Kod Data Science 8th Workshop*
 - @CeydaGonulalcak
 - @ShirinHamrayeva
 - @GizemDokgoz
